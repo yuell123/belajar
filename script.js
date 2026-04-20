@@ -1,0 +1,9 @@
+function celebrate() {
+    const title = document.getElementById('title');
+    const message = document.getElementById('message');
+    
+    title.innerText = "HBD Buat Kamu! ✨";
+    message.innerText = "Semoga Panjang Umur Dan Sehat Selalu!";
+    
+    alert("🎉 Selamat Ulang Tahun! 🎉");
+}
